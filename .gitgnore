@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Java
+target/
+
+# IDE
+.idea/
+.vscode/
+
+# Other
+.DS_Store
